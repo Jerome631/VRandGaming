@@ -1,0 +1,53 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+camera 336.0 324.0 0.009022349008229194 0.946640803377696 0.10037797092018093 1.2250000000000005
+modifier head/head-age-decr|incr -0.016000
+modifier head/head-angle-in|out -0.016000
+modifier head/head-fat-decr|incr -1.000000
+modifier head/head-rectangular 0.389000
+modifier head/head-square 0.111000
+modifier head/head-triangular 0.222000
+modifier head/head-invertedtriangular 0.389000
+modifier head/head-diamond 0.040000
+modifier head/head-back-scale-depth-decr|incr -0.698000
+modifier neck/neck-back-scale-depth-decr|incr -0.366000
+modifier torso/torso-scale-horiz-decr|incr 0.444000
+modifier torso/torso-trans-down|up -0.444000
+modifier torso/torso-vshape-decr|incr 0.174000
+modifier torso/torso-muscle-dorsi-decr|incr -0.174000
+modifier torso/torso-muscle-pectoral-decr|incr -0.032000
+modifier stomach/stomach-navel-in|out 0.032000
+modifier stomach/stomach-pregnant-decr|incr -0.396000
+modifier pelvis/bulge-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-length-decr|incr -0.112000
+modifier armslegs/r-hand-scale-decr|incr -0.064000
+modifier armslegs/l-hand-scale-decr|incr -0.126000
+modifier armslegs/r-foot-scale-decr|incr 0.366000
+modifier armslegs/l-foot-scale-decr|incr 0.270000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier breast/breast-trans-down|up 1.000000
+modifier breast/nipple-point-decr|incr -0.112000
+modifier macrodetails/Gender 0.683000
+modifier macrodetails/Age 0.405000
+modifier macrodetails/African 0.135000
+modifier macrodetails/Asian 0.135000
+modifier macrodetails/Caucasian 0.730000
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails-universal/Weight 0.825000
+modifier macrodetails-height/Height 0.444000
+modifier macrodetails-proportions/BodyProportions 0.659000
+teeth Teeth_Shape03 2acf6643-1298-4137-aefa-4864060321b4
+proxy male_muscle_13290 79e967dc-3f7a-4f2d-851e-4f06753ed571
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+eyebrows eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothesHideFaces True
+skinMaterial skins/middleage_asian_male/middleage_asian_male.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material eyebrow012 1c16325c-7831-4166-831a-05c5b609c219 eyebrow012.mhmat
+material Teeth_Shape03 2acf6643-1298-4137-aefa-4864060321b4 teeth/materials/teeth.mhmat
+subdivide False
